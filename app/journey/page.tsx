@@ -207,7 +207,7 @@ export default function JourneyPage() {
         <div className="mt-16 max-w-3xl mx-auto">
           <div className="bg-gradient-to-r from-pink-400 via-purple-400 to-blue-400 rounded-3xl shadow-2xl p-8 md:p-12 text-white text-center transform hover:scale-105 transition-transform">
             <p className="text-2xl md:text-3xl font-bold mb-4 italic">
-              &quot;Путь к мечте не всегда прямой, но каждый шаг делает нас сильнее!&quot;
+              Путь к мечте не всегда прямой, но каждый шаг делает нас сильнее!
             </p>
             <p className="text-lg opacity-90">
               Гордимся твоей смелостью и упорством! 💪✨

@@ -26,8 +26,7 @@ const photos = [
   { id: 20, src: '/images/ege/photo_2024-06-30_11-26-02.jpg', caption: 'Гордость семьи' },
   { id: 21, src: '/images/ege/photo_2025-10-28_20-56-11.jpg', caption: 'Последние штрихи ботки 🌟' },
   { id: 22, src: '/images/ege/photo_2025-10-28_20-57-28.jpg', caption: 'Ещё чуть-чуть 🎯' },
-  { id: 23, src: '/images/ege/photo_2025-10-28_20-57-31.jpg', caption: 'И ещё... ✨' },
-  { id: 24, src: '/images/ege/photo_2025-11-06_00-07-15.jpg', caption: 'ВСЁЁЁ, так выглядит счастье!!! ' },
+  { id: 23, src: '/images/ege/photo_2025-11-06_00-07-15.jpg', caption: 'ВСЁЁЁ, так выглядит счастье!!! ' },
 ];
 
 export default function EgePage() {
